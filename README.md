@@ -28,7 +28,7 @@ Read the given Data.
 
 Get the information about the data.
 
-##STEP 3
+## STEP 3
 
 Detect the Outliers using IQR method and Z score.
 
